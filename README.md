@@ -332,7 +332,7 @@ http://localhost:8001
 ## 👩‍💻 Author
 
 **Heba Hossam**
-AI & Data Science Engineer | MSc Computer Science
+AI Engineer
 
 ---
 
